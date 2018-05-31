@@ -101,7 +101,7 @@ h1, h2 {
 }
 ul {
   list-style-type: none;
-  padding: 45px;
+  padding: 46px;
 }
 li {
   display: inline-block;
