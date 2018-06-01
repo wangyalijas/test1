@@ -85,7 +85,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld121121',
+  name: 'HelloWorld121121121',
   data () {
     return {
       msg: 'test12345678'
