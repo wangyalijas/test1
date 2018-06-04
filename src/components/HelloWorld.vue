@@ -85,10 +85,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld1211211211221212',
+  name: 'dev',
   data () {
     return {
-      msg: 'dev2'
+      msg: 'dev'
     }
   }
 }
