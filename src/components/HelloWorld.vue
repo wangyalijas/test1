@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld1211211211221212',
   data () {
     return {
-      msg: '安装测试大 sad45465421121·'
+      msg: '安装测试大 sad454654211212·'
     }
   }
 }
