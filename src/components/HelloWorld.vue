@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld1211211211221212',
   data () {
     return {
-      msg: '链接1212121'
+      msg: '链接34'
     }
   }
 }
